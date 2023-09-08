@@ -11,8 +11,8 @@ def square(n): # defined a function that requires an argument called "n"
 # or
 # return ** 2
 
-
-main()
+if __name__ == "__main__":
+    main()
 
 
 ### All notes below, were the original text before previous text was added.
